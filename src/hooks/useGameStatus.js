@@ -1,5 +1,4 @@
 import { useState, useEffect, useCallback } from "react";
-import { useStage } from "./useStage";
 
 export const useGameStatus = rowsCleared => {
     const [score, setScore] = useState(0);
