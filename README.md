@@ -1,4 +1,4 @@
-# Gmail Clone
+# Tetris Game
 
 ## Working URL: https://dazzling-davinci-11972d.netlify.app/
 
