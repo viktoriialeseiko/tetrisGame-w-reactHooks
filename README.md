@@ -1,6 +1,6 @@
 # Tetris Game
 
-## Working URL: https://dazzling-davinci-11972d.netlify.app/
+## Working URL: https://tetris-game-react.netlify.app/
 
 <img width="720" alt="tetris" src="https://user-images.githubusercontent.com/68620818/129463946-8aa577df-1243-4c0a-967f-e4c768c19208.png">
 
